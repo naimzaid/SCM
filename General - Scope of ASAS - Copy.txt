@@ -1,0 +1,47 @@
+Scope of ASAS
+Student Roles
+View individual’s statistics of attendance/absence.
+Update absence details.
+View replacement, relocation, and cancellation of class.
+Lecturer Roles
+Manually overwrite student attendance.
+View and Approve/ denied student’s reason for not attending class.
+Lecturer able to relocate their class’s time and venue. Permanent/temporary
+Lecturer able to cancel their class based on academic timetable.
+Lecturer able to request for class replacement based on availability of time and location of academic timetable.
+Admin Roles
+
+Admin and Lecturer Roles
+View log student attendance record to keep track of changes.
+View individual student’s attendance record.
+View record of emergency/medical leave of student
+Set semester, university, and public holiday. 
+Generate individual student’s attendance report. (Daily, weekly, monthly, Yearly and by semester)
+Generate overall attendance of the class. (Daily, weekly, monthly, Yearly and by semester)
+Email Notification for student with critical attendance rate.
+
+Admin Roles
+Add session.
+Show timetable.
+Set semester, university, and public holiday. 
+Approve replacement, relocation, cancellation of class.
+
+Student Roles
+Obtain attendance (RFID)
+Statistics of attendance /absence – view attendance/ and absence by class
+Overall data
+Link to each class.
+View statistics by session.
+Absent session – view reason and approval of attendance.
+opt to provide reason not attending
+View replacement, relocation, and cancellation of class.
+Lecturer Roles
+View class under lecturer.
+View students in each class.
+View each student attendance statistics.
+Request for class replacement, relocation, and cancellation.
+Overwrite student attendance.
+View 
+
+Background
+Notification for student.
